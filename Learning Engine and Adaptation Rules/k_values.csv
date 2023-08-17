@@ -1,0 +1,6 @@
+model,k_value
+Yolov5 Nano,2
+Yolov5 Small,2
+Yolov5 Medium,2
+Yolov5 Large,2
+Yolov5 Xlarge,2
